@@ -3,6 +3,7 @@ quest-check-python-code/imgs
 quest-tf-mnist/data
 .DS_Store
 
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
